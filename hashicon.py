@@ -62,7 +62,7 @@ def main():
     import sys
     import argparse
 
-    parser = argparse.ArgumentParser(description='Create minimalistic icons from text.')
+    parser = argparse.ArgumentParser(description='Create minimalistic icons from a string')
     parser.add_argument('string', default="", nargs='*', help="string to make icon from, image saved by default as png")
     parser.add_argument('-s', '--show', action='store_true', help="show the image with xv instead of saving it")
     parser.add_argument('-e', '--extension', default="no", choices=["png", "jpg", "jpeg", "gif"], nargs="?", help="save icon as different file format, default is PNG")

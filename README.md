@@ -7,7 +7,7 @@ Create minimalistic icons (Similar to those found on GitHub) from a string.
 ```
 usage: hashicon.py [-h] [-s] [-e [{png,jpg,jpeg,gif}]] [string [string ...]]
 
-Create minimalistic icons from text.
+Create minimalistic icons from a string.
 
 positional arguments:
   string                string to make icon from, image saved by default as
