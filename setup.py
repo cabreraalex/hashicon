@@ -10,7 +10,7 @@ setup(
     url = 'https://github.com/cabreraalex/hashicon',
     download_url = 'https://github.com/cabreraalex/hashicon/tarball/0.1',
     license='MIT',
-    install_requires=['Pillow']
+    install_requires=['Pillow'],
     keywords = ['icon', 'PIL', 'hash', 'picture', 'Pillow'],
     classifiers = [],
     entry_points = {'console_scripts': [
