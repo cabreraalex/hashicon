@@ -22,9 +22,11 @@ optional arguments:
 
 ## Examples
 
-Alex Cabrera
+### Alex Cabrera
+
 ![Alex Cabrera](Alex\ Cabrera.png)
 
-GitHub
+### GitHub
+
 ![GitHub](GitHub.png)
 
