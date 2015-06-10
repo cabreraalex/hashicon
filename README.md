@@ -19,3 +19,12 @@ optional arguments:
   -e [{png,jpg,jpeg,gif}], --extension [{png,jpg,jpeg,gif}]
                         save icon as different file format, default is PNG
 ```
+
+## Examples
+
+Alex Cabrera
+![Alex Cabrera](Alex\ Cabrera.png)
+
+GitHub
+![GitHub](GitHub.png)
+
