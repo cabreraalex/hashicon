@@ -30,3 +30,7 @@ optional arguments:
 
 ![GitHub](GitHub.png)
 
+## Install
+
+`sudo pip3 install hashicon`
+
